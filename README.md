@@ -5,14 +5,10 @@
 <div align="center">
   <h2>My WIPs</h2>
 </div>
-
-<div style="display: flex; flex-direction: row; justify-content: space-between>
   
 [![valRandomizer](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=valRandomizer&theme=tokyonight)](https://github.com/erik-bobinski/valRandomizer) 
 
 [![ultimate-reslotter](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=ultimate-reslotter&theme=tokyonight)](https://github.com/erik-bobinski/ultimate-reslotter)
-
-</div>
 
 <div align="center">
   <h2>My Tools</h2>
