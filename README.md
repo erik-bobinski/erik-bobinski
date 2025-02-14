@@ -10,6 +10,8 @@
 
 [![ultimate-reslotter](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=ultimate-reslotter&theme=tokyonight)](https://github.com/erik-bobinski/ultimate-reslotter)
 
+[![threadx-hacking](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=threadx-hacking&theme=tokyonight)](https://github.com/erik-bobinski/threadx-hacking) 
+
 <div align="center">
   <h2>My Tools</h2>
 </div>
