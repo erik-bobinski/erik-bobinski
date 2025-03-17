@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <h2>My WIPs</h2>
+  <h2>What I'm Doing</h2>
 </div>
+
+[![go-http-server](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=go-http-server&theme=tokyonight)](https://github.com/erik-bobinski/go-http-server)
   
 [![valRandomizer](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=valRandomizer&theme=tokyonight)](https://github.com/erik-bobinski/valRandomizer) 
 
@@ -13,7 +15,7 @@
 [![threadx-hacking](https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=threadx-hacking&theme=tokyonight)](https://github.com/erik-bobinski/threadx-hacking) 
 
 <div align="center">
-  <h2>My Tools</h2>
+  <h2>What I use</h2>
 </div>
 
 <p align="center">
@@ -24,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,python,java,ts,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,java,ts,html,css" />
   </a>
 </p>
 
