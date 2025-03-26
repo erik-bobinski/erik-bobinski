@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,idea,docker,postman,react,angular,tailwind" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,idea,docker,react,angular,tailwind" />
   </a>
 </p>
 
