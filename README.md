@@ -47,6 +47,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,java,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=go,ts,rust,cpp,python,java" />
   </a>
 </p>
