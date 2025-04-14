@@ -11,11 +11,6 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/erik-bobinski/go-http-server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=go-http-server&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/erik-bobinski/valRandomizer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=valRandomizer&theme=tokyonight" />
       </a>
