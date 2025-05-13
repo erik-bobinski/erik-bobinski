@@ -15,6 +15,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=valRandomizer&theme=tokyonight" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/erik-bobinski/leetcodle">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=leetcodle&theme=tokyonight" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -28,6 +33,7 @@
       </a>
     </td>
   </tr>
+  
 </table>
 
 <div align="center">
