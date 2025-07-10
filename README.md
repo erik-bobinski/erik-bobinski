@@ -5,39 +5,21 @@
 </div>
 
 <div align="center">
-  <h2>What I'm Doing</h2>
+  <h2>What I'm working on</h2>
 </div>
 
 <table align="center">
   <tr>
-    <td>
-      <a href="https://github.com/erik-bobinski/valRandomizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=valRandomizer&theme=tokyonight" />
-      </a>
-    </td>
     <td>
       <a href="https://github.com/erik-bobinski/leetcodle">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=leetcodle&theme=tokyonight" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/erik-bobinski/ultimate-reslotter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=ultimate-reslotter&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/erik-bobinski/threadx-hacking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=threadx-hacking&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  
 </table>
 
 <div align="center">
-  <h2>What I Use</h2>
+  <h2>What I use</h2>
 </div>
 
 <p align="center">
