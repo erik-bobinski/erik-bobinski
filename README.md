@@ -24,12 +24,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,idea,docker,react,angular,tailwind" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,docker,nextjs,react,tailwind" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,rust,cpp,python,java" />
+    <img src="https://skillicons.dev/icons?i=ts,go,rust,python" />
   </a>
 </p>
