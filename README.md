@@ -12,7 +12,7 @@
   <tr>
     <td>
       <a href="https://github.com/erik-bobinski/leetcodle">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erik-bobinski&repo=leetcodle&theme=tokyonight" />
+        <img src="https://ghrepo-card.vercel.app/api/repos/erik-bobinski/leetcodle" />
       </a>
     </td>
   </tr>
